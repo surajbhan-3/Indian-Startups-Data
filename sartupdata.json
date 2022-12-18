@@ -1,16 +1,123 @@
 [
     {
-        "id":"1",
-        "name":"",
+        "id":"",
+        "name":"Ather",
         "image":"",
-        "category":""
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
          
     },
     {
-        "id":"1",
-        "name":"",
+        "id":"",
+        "name":"Boat",
         "image":"",
-        "category":""
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    },
+    {
+        "id":"",
+        "name":"Cred",
+        "image":"",
+        "category":"Fintech",
+        "founder":"Kunal Shah",
+        "founded":"2018",
+         "headquarter":"Bangalore"
+
+    },
+    {
+        "id":"",
+        "name":"Dream11",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    },
+    {
+        "id":"",
+        "name":"Digit Insurance",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    },
+    {
+        "id":"",
+        "name":"Groww",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    },
+    {
+        "id":"",
+        "name":"InMobi",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    },
+    {
+        "id":"",
+        "name":"Instamojo",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    },
+    {
+        "id":"",
+        "name":"Masai",
+        "image":"",
+        "category":"",
+        "founder":"Parteek Shukla, Nrupul Dev, Yogesh Bhat",
+        "founded":"",
+        "headquarter":""
+
+    }, 
+
+    {
+        "id":"",
+        "name":"Slice",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    },
+    {
+        "id":"",
+        "name":"Swiggy",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    },
+    {
+        "id":"",
+        "name":"Vernacular.ai",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
 
     }
 ]
