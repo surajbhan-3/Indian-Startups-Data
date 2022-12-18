@@ -1,0 +1,27 @@
+{
+  "name": "indian-startups-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajbhan-3/Indian-Startups-Data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajbhan-3/Indian-Startups-Data/issues"
+  },
+  "homepage": "https://github.com/surajbhan-3/Indian-Startups-Data#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
