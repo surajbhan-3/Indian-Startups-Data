@@ -83,10 +83,10 @@
         "id":"",
         "name":"Masai",
         "image":"",
-        "category":"",
+        "category":"Edtech",
         "founder":"Parteek Shukla, Nrupul Dev, Yogesh Bhat",
-        "founded":"",
-        "headquarter":""
+        "founded":"2019",
+        "headquarter":"Bangalore"
 
     }, 
 
@@ -110,6 +110,17 @@
         "headquarter":""
 
     },
+    {
+        "id":"",
+        "name":"Vernacular.ai",
+        "image":"",
+        "category":"",
+        "founder":"",
+        "founded":"",
+        "headquarter":""
+
+    }
+    ,
     {
         "id":"",
         "name":"Vernacular.ai",
