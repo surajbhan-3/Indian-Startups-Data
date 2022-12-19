@@ -1,145 +1,411 @@
 [
     {
-        "id":"",
-        "name":"Ather",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-         
+        "id": "",
+        "name": "Acko",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    
+    
+    {
+        "id": "",
+        "name": "Amagi",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Boat",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "Apna",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Cred",
-        "image":"",
-        "category":"Fintech",
-        "founder":"Kunal Shah",
-        "founded":"2018",
-         "headquarter":"Bangalore"
-
+        "id": "",
+        "name": "Ather",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Dream11",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "BharatPe",
+        "image": "",
+        "category": "Fintech",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Digit Insurance",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "BigBasket",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Groww",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "Billdesk",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"InMobi",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "BlackBuck",
+        "image": "",
+        "category": "Logistics",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Instamojo",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "Boat",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Masai",
-        "image":"",
-        "category":"Edtech",
-        "founder":"Parteek Shukla, Nrupul Dev, Yogesh Bhat",
-        "founded":"2019",
-        "headquarter":"Bangalore"
-
-    }, 
+        "id": "",
+        "name": "BrowserStack",
+        "image": "",
+        "category": "Cloud Infrastructure",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
 
     {
-        "id":"",
-        "name":"Slice",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "CarDekho",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Swiggy",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "CommerceIQ",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     },
     {
-        "id":"",
-        "name":"Vernacular.ai",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
-    }
-    ,
+        "id": "",
+        "name": "CoinDCX",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
     {
-        "id":"",
-        "name":"",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
-    }
-    ,
+        "id": "",
+        "name": "CoinSwitch Kuber",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
     {
-        "id":"",
-        "name":"",
-        "image":"",
-        "category":"",
-        "founder":"",
-        "founded":"",
-        "headquarter":""
-
+        "id": "",
+        "name": "Cred",
+        "image": "",
+        "category": "Fintech",
+        "founder": "Kunal Shah",
+        "founded": "2018",
+        "headquarter": "Bangalore"
+    },
+    {
+        "id": "",
+        "name": "Curefit",
+        "image": "",
+        "category": "Health",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    
+    {
+        "id": "",
+        "name": "Digit Insurance",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Dream11",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Droom",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Darwinbox",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Flipkart",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Groww",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Gupshup",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "InMobi",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Instamojo",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "LiveSpace",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Masai",
+        "image": "",
+        "category": "Edtech",
+        "founder": "Parteek Shukla, Nrupul Dev, Yogesh Bhat",
+        "founded": "2019",
+        "headquarter": "Bangalore"
+    },
+    {
+        "id": "",
+        "name": "Meesho",
+        "image": "",
+        "category": "E-commerce",
+        "founder": "",
+        "founded": "2015",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "MobiKwik",
+        "image": "",
+        "category": "Fintech",
+        "founder": "",
+        "founded": "2009",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Moglix",
+        "image": "",
+        "category": "B2B,E-commerce",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "MPL",
+        "image": "",
+        "category": "Esport",
+        "founder": "",
+        "founded": "2018",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "NoBroker",
+        "image": "",
+        "category": "Proptech",
+        "founder": "",
+        "founded": "2014",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Paytm",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "PharmEasy",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "PhonePay",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "PhysicsWallah",
+        "image": "",
+        "category": "Edtech",
+        "founder": "",
+        "founded": "2016",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Postman",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Skyroot Aerospace",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Slice",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Swiggy",
+        "image": "",
+        "category": "Foodtech",
+        "founder": "Sriharsha Majety,Nandan Reddy, Rahul Jaimini",
+        "founded": "2014",
+        "headquarter": "Bangalore"
+    },
+    {
+        "id": "",
+        "name": "Udaan",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Vernacular.ai",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "Zomato",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    },
+    {
+        "id": "",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
     }
 ]
