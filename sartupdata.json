@@ -1,6 +1,6 @@
 [
     {
-        "id": "",
+        "id": "1",
         "name": "Acko",
         "image": "",
         "category": "",
@@ -11,7 +11,7 @@
     
     
     {
-        "id": "",
+        "id": "2",
         "name": "Amagi",
         "image": "",
         "category": "",
@@ -20,7 +20,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "3",
         "name": "Apna",
         "image": "",
         "category": "",
@@ -29,7 +29,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "4",
         "name": "Ather",
         "image": "",
         "category": "",
@@ -38,7 +38,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "5",
         "name": "BharatPe",
         "image": "",
         "category": "Fintech",
@@ -47,7 +47,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "6",
         "name": "BigBasket",
         "image": "",
         "category": "",
@@ -56,7 +56,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "7",
         "name": "Billdesk",
         "image": "",
         "category": "",
@@ -65,7 +65,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "8",
         "name": "BlackBuck",
         "image": "",
         "category": "Logistics",
@@ -74,7 +74,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "9",
         "name": "Boat",
         "image": "",
         "category": "",
@@ -83,7 +83,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "10",
         "name": "BrowserStack",
         "image": "",
         "category": "Cloud Infrastructure",
@@ -93,7 +93,7 @@
     },
 
     {
-        "id": "",
+        "id": "11",
         "name": "CarDekho",
         "image": "",
         "category": "",
@@ -102,7 +102,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "12",
         "name": "CommerceIQ",
         "image": "",
         "category": "",
@@ -111,7 +111,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "13",
         "name": "CoinDCX",
         "image": "",
         "category": "",
@@ -120,7 +120,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "14",
         "name": "CoinSwitch Kuber",
         "image": "",
         "category": "",
@@ -129,7 +129,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "15",
         "name": "Cred",
         "image": "",
         "category": "Fintech",
@@ -138,7 +138,7 @@
         "headquarter": "Bangalore"
     },
     {
-        "id": "",
+        "id": "16",
         "name": "Curefit",
         "image": "",
         "category": "Health",
@@ -148,7 +148,7 @@
     },
     
     {
-        "id": "",
+        "id": "17",
         "name": "Digit Insurance",
         "image": "",
         "category": "",
@@ -157,7 +157,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "18",
         "name": "Dream11",
         "image": "",
         "category": "",
@@ -166,7 +166,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "19",
         "name": "Droom",
         "image": "",
         "category": "",
@@ -175,7 +175,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "20",
         "name": "Darwinbox",
         "image": "",
         "category": "",
@@ -184,7 +184,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "21",
         "name": "Flipkart",
         "image": "",
         "category": "",
@@ -193,7 +193,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "22",
         "name": "Groww",
         "image": "",
         "category": "",
@@ -202,7 +202,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "23",
         "name": "Gupshup",
         "image": "",
         "category": "",
@@ -211,7 +211,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "24",
         "name": "InMobi",
         "image": "",
         "category": "",
@@ -220,7 +220,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "25",
         "name": "Instamojo",
         "image": "",
         "category": "",
@@ -229,7 +229,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "26",
         "name": "LiveSpace",
         "image": "",
         "category": "",
@@ -238,7 +238,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "27",
         "name": "Masai",
         "image": "",
         "category": "Edtech",
@@ -247,7 +247,7 @@
         "headquarter": "Bangalore"
     },
     {
-        "id": "",
+        "id": "28",
         "name": "Meesho",
         "image": "",
         "category": "E-commerce",
@@ -256,7 +256,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "29",
         "name": "MobiKwik",
         "image": "",
         "category": "Fintech",
@@ -265,7 +265,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "30",
         "name": "Moglix",
         "image": "",
         "category": "B2B,E-commerce",
@@ -274,7 +274,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "31",
         "name": "MPL",
         "image": "",
         "category": "Esport",
@@ -283,16 +283,16 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "31",
         "name": "NoBroker",
         "image": "",
         "category": "Proptech",
-        "founder": "",
+        "founder": " Amit Kumar Agarwal, Akhil Gupta & Saurabh Garg",
         "founded": "2014",
-        "headquarter": ""
+        "headquarter": "Bangalore"
     },
     {
-        "id": "",
+        "id": "32",
         "name": "Paytm",
         "image": "",
         "category": "",
@@ -301,7 +301,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "33",
         "name": "PharmEasy",
         "image": "",
         "category": "",
@@ -310,7 +310,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "34",
         "name": "PhonePay",
         "image": "",
         "category": "",
@@ -319,7 +319,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "35",
         "name": "PhysicsWallah",
         "image": "",
         "category": "Edtech",
@@ -328,7 +328,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "36",
         "name": "Postman",
         "image": "",
         "category": "",
@@ -337,7 +337,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "37",
         "name": "Skyroot Aerospace",
         "image": "",
         "category": "",
@@ -346,7 +346,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "38",
         "name": "Slice",
         "image": "",
         "category": "",
@@ -355,7 +355,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "39",
         "name": "Swiggy",
         "image": "",
         "category": "Foodtech",
@@ -364,7 +364,7 @@
         "headquarter": "Bangalore"
     },
     {
-        "id": "",
+        "id": "40",
         "name": "Udaan",
         "image": "",
         "category": "",
@@ -373,7 +373,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "41",
         "name": "Vernacular.ai",
         "image": "",
         "category": "",
@@ -382,7 +382,7 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "42",
         "name": "Zomato",
         "image": "",
         "category": "",
@@ -391,16 +391,228 @@
         "headquarter": ""
     },
     {
-        "id": "",
+        "id": "43",
+        "name": "Razorpay",
+        "image": "",
+        "category": "Fintech",
+        "founder": "Harsil Mathur, Shashank Kumar",
+        "founded": "2014",
+        "headquarter": "Bangalore"
+    },
+    {
+        "id": "44",
+        "name": "Zerodha",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "45",
+        "name": "Oyo",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "46",
+        "name": "Delhivery",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "47",
+        "name": "Noise",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "48",
+        "name": "Banyan Nation",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }  ,
+    {
+        "id": "49",
+        "name": "Freshworks",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "50",
+        "name": "Nykaa",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    } 
+    ,
+    {
+        "id": "51",
+        "name": "XpressBees",
+        "image": "",
+        "category": "Logistics",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "52",
+        "name": "DealShare",
+        "image": "",
+        "category": "E-commerce",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }  ,
+    {
+        "id": "53",
+        "name": "Mamaearth",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "54",
+        "name": "Upstox",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "55",
+        "name": "Licious",
+        "image": "",
+        "category": "Foodtech",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "upGrad",
+        "name": "",
+        "image": "",
+        "category": "Edtech",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "56",
+        "name": "FirtCry",
+        "image": "",
+        "category": "E-commerce",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }  ,
+    {
+        "id": "57",
+        "name": "Unacademy",
+        "image": "",
+        "category": "Edtech",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "58",
+        "name": "Pine Labs",
+        "image": "",
+        "category": "Fintech",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "59",
+        "name": "BYJUS",
+        "image": "",
+        "category": "Edtech",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "44",
         "name": "",
         "image": "",
         "category": "",
         "founder": "",
         "founded": "",
         "headquarter": ""
-    },
+    }  ,
     {
-        "id": "",
+        "id": "44",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }  ,
+    {
+        "id": "44",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }  ,
+    {
+        "id": "44",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }  ,
+    {
+        "id": "44",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }  ,
+    {
+        "id": "44",
         "name": "",
         "image": "",
         "category": "",
