@@ -3,21 +3,21 @@
         "id": "1",
         "name": "Acko",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Varun Dua",
+        "founded": "2016",
+        "headquarter": "Mumbai"
     },
     
     
     {
         "id": "2",
-        "name": "Amagi",
+        "name": "Amagi Media Labs",
         "image": "",
         "category": "",
-        "founder": "",
+        "founder": "Baskar Subramanian,Srividhya Srinivasan, Srinivasan KA",
         "founded": "",
-        "headquarter": ""
+        "headquarter": "Bangalore"
     },
     {
         "id": "3",
