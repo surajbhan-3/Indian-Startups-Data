@@ -14,55 +14,56 @@
         "id": "2",
         "name": "Amagi Media Labs",
         "image": "",
-        "category": "",
+        "category": "SaaS, MediaTech",
         "founder": "Baskar Subramanian,Srividhya Srinivasan, Srinivasan KA",
-        "founded": "",
+        "founded": "2008",
         "headquarter": "Bangalore"
     },
     {
         "id": "3",
         "name": "Apna",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Staffing",
+        "founder": "Nirmit Parikh",
+        "founded": "2019",
+        "headquarter": "Mumbai"
     },
     {
         "id": "4",
-        "name": "Ather",
+        "name": "Ather Energy",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "AutoTech",
+        "founder": "Tarun Mehta && Swapnil Jain",
+        "founded": "2013",
+        "headquarter": "Bangalore"
     },
     {
         "id": "5",
         "name": "BharatPe",
         "image": "",
         "category": "Fintech",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Ashneer Grover &&  Shashvat Nakrani",
+        "founded": "2018",
+        "headquarter": "New Delhi"
+
     },
     {
         "id": "6",
         "name": "BigBasket",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Foodtech",
+        "founder": "Hari Menon, Abhinay Choudhari, VS Shudhakar,Vipul Parekh,VS Ramesh",
+        "founded": "2011",
+        "headquarter": "Bangalore"
     },
     {
         "id": "7",
         "name": "Billdesk",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "M.N Srinivasa,Ajay Kaushal, Karthik Ganapathy",
+        "founded": "2000",
+        "headquarter": "Mumbai"
     },
     {
         "id": "8",
@@ -567,7 +568,7 @@
     }
     ,
     {
-        "id": "44",
+        "id": "60",
         "name": "",
         "image": "",
         "category": "",
@@ -576,7 +577,7 @@
         "headquarter": ""
     }  ,
     {
-        "id": "44",
+        "id": "61",
         "name": "",
         "image": "",
         "category": "",
@@ -585,7 +586,7 @@
         "headquarter": ""
     }  ,
     {
-        "id": "44",
+        "id": "62",
         "name": "",
         "image": "",
         "category": "",
@@ -594,7 +595,7 @@
         "headquarter": ""
     }  ,
     {
-        "id": "44",
+        "id": "63",
         "name": "",
         "image": "",
         "category": "",
@@ -603,7 +604,7 @@
         "headquarter": ""
     }  ,
     {
-        "id": "44",
+        "id": "64",
         "name": "",
         "image": "",
         "category": "",
@@ -612,7 +613,7 @@
         "headquarter": ""
     }  ,
     {
-        "id": "44",
+        "id": "65",
         "name": "",
         "image": "",
         "category": "",
@@ -620,4 +621,276 @@
         "founded": "",
         "headquarter": ""
     }
+    ,
+    {
+        "id": "66",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "67",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "68",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "69",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "70",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "71",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "72",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "73",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "74",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "75",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "76",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "77",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "78",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "79",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "80",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "89",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "90",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "91",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "92",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "93",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "94",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "95",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "96",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "97",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "98",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "99",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+    ,
+    {
+        "id": "100",
+        "name": "",
+        "image": "",
+        "category": "",
+        "founder": "",
+        "founded": "",
+        "headquarter": ""
+    }
+
 ]
+
