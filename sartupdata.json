@@ -70,64 +70,64 @@
         "name": "BlackBuck",
         "image": "",
         "category": "Logistics",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Rajesh Yabaji",
+        "founded": "2015",
+        "headquarter": "Bangalore"
     },
     {
         "id": "9",
         "name": "Boat",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Electronics",
+        "founder": "Aman Gupta, Sameer Mehta",
+        "founded": "2016",
+        "headquarter": "Mumbai"
     },
     {
         "id": "10",
         "name": "BrowserStack",
         "image": "",
         "category": "Cloud Infrastructure",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": " Ritesh Arora, Nakul Aggarwal",
+        "founded": "2011",
+        "headquarter": "Mumbai"
     },
 
     {
         "id": "11",
         "name": "CarDekho",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "AutoTech",
+        "founder": "Amit Jain, Anurag Jain",
+        "founded": "2008",
+        "headquarter": "Gurugram"
     },
     {
         "id": "12",
-        "name": "CommerceIQ",
+        "name": "PagarBook",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "SaaS",
+        "founder": "Adarsh Kumar, Arya Gautam, Rupesh Mishra",
+        "founded": "2019",
+        "headquarter": "Bangalore"
     },
     {
         "id": "13",
         "name": "CoinDCX",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Sumit Gupta, Neeraj Khandelwal",
+        "founded": "2018",
+        "headquarter": "Mumbai"
     },
     {
         "id": "14",
         "name": "CoinSwitch Kuber",
         "image": "",
-        "category": "",
-        "founder": "",
+        "category": "Fintech",
+        "founder": "Ashish Singhal, Vimal Sagar Tiwari, Govind Soni",
         "founded": "",
-        "headquarter": ""
+        "headquarter": "Bangalore"
     },
     {
         "id": "15",
