@@ -140,94 +140,94 @@
     },
     {
         "id": "16",
-        "name": "Curefit",
+        "name": "Cult.fit",
         "image": "",
         "category": "Health",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Mukesh Bansal, Ankit Nagori",
+        "founded": "2016",
+        "headquarter": "Bangalore"
     },
     
     {
         "id": "17",
         "name": "Digit Insurance",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Kamesh Goyal",
+        "founded": "2016",
+        "headquarter": "Bangalore"
     },
     {
         "id": "18",
         "name": "Dream11",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Esport",
+        "founder": "Harsh Jain, Bhavit Sheth",
+        "founded": "2008",
+        "headquarter": "Mumbai"
     },
     {
         "id": "19",
         "name": "Droom",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "AutoTech",
+        "founder": "Sandeep Aggarwal",
+        "founded": "2014",
+        "headquarter": "Gurugram"
     },
     {
         "id": "20",
         "name": "Darwinbox",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "SaaS",
+        "founder": "Chaitanya Peddi, Jayant Paleti, Rohit Chennamaneni",
+        "founded": "2015",
+        "headquarter": "Hyderabad"
     },
     {
         "id": "21",
         "name": "Flipkart",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "E-commerce",
+        "founder": "Sachin Bansal, Binnay Bansal",
+        "founded": "2007",
+        "headquarter": "Bangalore"
     },
     {
         "id": "22",
         "name": "Groww",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Lalit Keshre, Ishan Bansal, Harsh Jain ,Neeraj Singh",
+        "founded": "2016",
+        "headquarter": "Bangalore"
     },
     {
         "id": "23",
-        "name": "Gupshup",
+        "name": "Teachmint",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "SaaS",
+        "founder": "Mihir Gupta, Payoj Jain, Divyansh Bordia, Anshuman Kumar",
+        "founded": "2020",
+        "headquarter": "Bangalore"
     },
     {
         "id": "24",
         "name": "InMobi",
         "image": "",
         "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": " Amit Gupta, Abhay Singhal, Mohit Saxena, Piyush Shah,  Naveen Tewari",
+        "founded": "2007",
+        "headquarter": "Bangalore"
     },
     {
         "id": "25",
         "name": "Instamojo",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "E-commerce",
+        "founder": "Sampad Swain",
+        "founded": "2012",
+        "headquarter": "Bangalore"
     },
     {
         "id": "26",
