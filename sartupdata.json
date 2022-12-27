@@ -17,7 +17,7 @@
         "category": "SaaS, MediaTech",
         "founder": "Baskar Subramanian,Srividhya Srinivasan, Srinivasan KA",
         "founded": "2008",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "3",
@@ -35,7 +35,7 @@
         "category": "AutoTech",
         "founder": "Tarun Mehta && Swapnil Jain",
         "founded": "2013",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "5",
@@ -54,7 +54,7 @@
         "category": "Foodtech",
         "founder": "Hari Menon, Abhinay Choudhari, VS Shudhakar,Vipul Parekh,VS Ramesh",
         "founded": "2011",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "7",
@@ -72,7 +72,7 @@
         "category": "Logistics",
         "founder": "Rajesh Yabaji",
         "founded": "2015",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "9",
@@ -109,7 +109,7 @@
         "category": "SaaS",
         "founder": "Adarsh Kumar, Arya Gautam, Rupesh Mishra",
         "founded": "2019",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "13",
@@ -127,7 +127,7 @@
         "category": "Fintech",
         "founder": "Ashish Singhal, Vimal Sagar Tiwari, Govind Soni",
         "founded": "",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "15",
@@ -136,7 +136,7 @@
         "category": "Fintech",
         "founder": "Kunal Shah",
         "founded": "2018",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "16",
@@ -145,7 +145,7 @@
         "category": "Health",
         "founder": "Mukesh Bansal, Ankit Nagori",
         "founded": "2016",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     
     {
@@ -155,7 +155,7 @@
         "category": "Fintech",
         "founder": "Kamesh Goyal",
         "founded": "2016",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "18",
@@ -191,7 +191,7 @@
         "category": "E-commerce",
         "founder": "Sachin Bansal, Binnay Bansal",
         "founded": "2007",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "22",
@@ -200,7 +200,7 @@
         "category": "Fintech",
         "founder": "Lalit Keshre, Ishan Bansal, Harsh Jain ,Neeraj Singh",
         "founded": "2016",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "23",
@@ -209,7 +209,7 @@
         "category": "SaaS",
         "founder": "Mihir Gupta, Payoj Jain, Divyansh Bordia, Anshuman Kumar",
         "founded": "2020",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "24",
@@ -218,7 +218,7 @@
         "category": "",
         "founder": " Amit Gupta, Abhay Singhal, Mohit Saxena, Piyush Shah,  Naveen Tewari",
         "founded": "2007",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "25",
@@ -227,16 +227,16 @@
         "category": "E-commerce",
         "founder": "Sampad Swain",
         "founded": "2012",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "26",
         "name": "LiveSpace",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Interior Design",
+        "founder": "Anuj Srivastava, Ramakant Sharma",
+        "founded": "2014",
+        "headquarter": "Bengaluru"
     },
     {
         "id": "27",
@@ -245,43 +245,43 @@
         "category": "Edtech",
         "founder": "Parteek Shukla, Nrupul Dev, Yogesh Bhat",
         "founded": "2019",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "28",
         "name": "Meesho",
         "image": "",
         "category": "E-commerce",
-        "founder": "",
+        "founder": "Vidit Aatrey, Sanjeev Barnwal",
         "founded": "2015",
-        "headquarter": ""
+        "headquarter": "Bengaluru"
     },
     {
         "id": "29",
         "name": "MobiKwik",
         "image": "",
         "category": "Fintech",
-        "founder": "",
+        "founder": "Bipin Preet Singh, Upasana Taku, Chandan Joshi",
         "founded": "2009",
-        "headquarter": ""
+        "headquarter": "Delhi"
     },
     {
         "id": "30",
         "name": "Moglix",
         "image": "",
-        "category": "B2B,E-commerce",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "E-commerce, B2B",
+        "founder": "Rahul Garg",
+        "founded": "2015",
+        "headquarter": "Delhi"
     },
     {
         "id": "31",
         "name": "MPL",
         "image": "",
         "category": "Esport",
-        "founder": "",
+        "founder": "Sai Srinivas Kiran G, Shubh Malhotra",
         "founded": "2018",
-        "headquarter": ""
+        "headquarter": "Bengaluru"
     },
     {
         "id": "31",
@@ -290,25 +290,25 @@
         "category": "Proptech",
         "founder": " Amit Kumar Agarwal, Akhil Gupta & Saurabh Garg",
         "founded": "2014",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "32",
         "name": "Paytm",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Vijay Shekhar Sharma",
+        "founded": "2010",
+        "headquarter": "Noida"
     },
     {
         "id": "33",
         "name": "PharmEasy",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Health",
+        "founder": "Dharmil Sheth, Dhaval Shah",
+        "founded": "2015",
+        "headquarter": "Mumbai"
     },
     {
         "id": "34",
@@ -317,7 +317,7 @@
         "category": "",
         "founder": "",
         "founded": "",
-        "headquarter": ""
+        "headquarter": "Bengaluru"
     },
     {
         "id": "35",
@@ -362,7 +362,7 @@
         "category": "Foodtech",
         "founder": "Sriharsha Majety,Nandan Reddy, Rahul Jaimini",
         "founded": "2014",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "40",
@@ -398,7 +398,7 @@
         "category": "Fintech",
         "founder": "Harsil Mathur, Shashank Kumar",
         "founded": "2014",
-        "headquarter": "Bangalore"
+        "headquarter": "Bengaluru"
     },
     {
         "id": "44",
