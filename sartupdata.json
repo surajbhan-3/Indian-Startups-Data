@@ -314,9 +314,9 @@
         "id": "34",
         "name": "PhonePay",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
+        "category": "Fintech",
+        "founder": "Sameer Nigam, Rahul Chari, Burzin Engineer",
+        "founded": "2015",
         "headquarter": "Bengaluru"
     },
     {
@@ -324,36 +324,36 @@
         "name": "PhysicsWallah",
         "image": "",
         "category": "Edtech",
-        "founder": "",
+        "founder": "Alakh Pandey",
         "founded": "2016",
-        "headquarter": ""
+        "headquarter": "New Delhi"
     },
     {
         "id": "36",
         "name": "Postman",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "SaaS",
+        "founder": "Abhinav Asthana, Ankit Sobti, Abhijit Kane",
+        "founded": "2012",
+        "headquarter": "Bengaluru"
     },
     {
         "id": "37",
         "name": "Skyroot Aerospace",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Aerospace",
+        "founder": "Pawan Kumar Chandana, Naga Bharath Daka",
+        "founded": "2018",
+        "headquarter": "Hyderabad"
     },
     {
         "id": "38",
         "name": "Slice",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Rajan Bajaj",
+        "founded": "2016",
+        "headquarter": "Bengaluru"
     },
     {
         "id": "39",
@@ -368,28 +368,28 @@
         "id": "40",
         "name": "Udaan",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "E-commerce, B2B",
+        "founder": "Amod Malviya, Vaibhav Gupta, Sujeet Kumar",
+        "founded": "2016",
+        "headquarter": "Bengaluru"
     },
     {
         "id": "41",
         "name": "Vernacular.ai",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "SaaS",
+        "founder": "Sourabh Gupta, Akshay Deshraj, Manoj Sarda, Parteek Gupta",
+        "founded": "2016",
+        "headquarter": "Bengaluru"
     },
     {
         "id": "42",
         "name": "Zomato",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Foodtech",
+        "founder": "Deepinder Goyal, Pankaj Chaddha",
+        "founded": "2008",
+        "headquarter": "Gurugram"
     },
     {
         "id": "43",
@@ -404,69 +404,69 @@
         "id": "44",
         "name": "Zerodha",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Nithin Kamath, Nikhil Kamath",
+        "founded": "2010",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "45",
         "name": "Oyo",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Hospitality",
+        "founder": "Ritesh Agarwal",
+        "founded": "2012",
+        "headquarter": "Gurugram"
     }
     ,
     {
         "id": "46",
         "name": "Delhivery",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Logistics",
+        "founder": "Sahil Barua Mohit Tandon,  Bhavesh Manglani,  Suraj Saharan, Kapil Bharati",
+        "founded": "2011",
+        "headquarter": "Gurugram"
     }
     ,
     {
         "id": "47",
         "name": "Noise",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Electronics",
+        "founder": "Amit Khatri, Gaurav Khatri",
+        "founded": "2018",
+        "headquarter": "Gurugram"
     }
     ,
     {
         "id": "48",
         "name": "Banyan Nation",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Climate tech",
+        "founder": "Mani Vajipey, Raj Madangopal",
+        "founded": "2013",
+        "headquarter": "Hyderabad"
     }  ,
     {
         "id": "49",
         "name": "Freshworks",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "SaaS",
+        "founder": "Girish Mathrubootham, Shan Krishnasamy, Vijay Shankar",
+        "founded": "2010",
+        "headquarter": "Chennai"
     }
     ,
     {
         "id": "50",
         "name": "Nykaa",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "E-commerce",
+        "founder": "Falguni Nayar",
+        "founded": "2012",
+        "headquarter": "Mumbai"
     } 
     ,
     {
