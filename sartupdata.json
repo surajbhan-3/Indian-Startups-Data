@@ -474,9 +474,9 @@
         "name": "XpressBees",
         "image": "",
         "category": "Logistics",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Amitava Saha, Supam Maheshwari",
+        "founded": "2015",
+        "headquarter": "Pune"
     }
     ,
     {
@@ -492,20 +492,20 @@
         "id": "53",
         "name": "Mamaearth",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "E-commerce",
+        "founder": "Vineet Rao, Rajat Shikhar, Sankar Bora",
+        "founded": "2018",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "54",
         "name": "Upstox",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Ravi Kumar, Kavitha Subramanian, Shrini Viswanath",
+        "founded": "2009",
+        "headquarter": "Mumbai"
     }
     ,
     {
@@ -513,9 +513,9 @@
         "name": "Licious",
         "image": "",
         "category": "Foodtech",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Abhay Hanjura, Vivek gupta",
+        "founded": "2015",
+        "headquarter": "Bengaluru"
     }
     ,
     {
@@ -523,7 +523,7 @@
         "name": "",
         "image": "",
         "category": "Edtech",
-        "founder": "",
+        "founder": "Ronnie Screwvala, Mayank Kumar, Phalgun Kompalli, Ravijot Chugh",
         "founded": "",
         "headquarter": ""
     }
@@ -569,7 +569,7 @@
     ,
     {
         "id": "60",
-        "name": "",
+        "name": "Smallcase",
         "image": "",
         "category": "",
         "founder": "",
@@ -578,7 +578,7 @@
     }  ,
     {
         "id": "61",
-        "name": "",
+        "name": "Cashkaro",
         "image": "",
         "category": "",
         "founder": "",
@@ -587,7 +587,7 @@
     }  ,
     {
         "id": "62",
-        "name": "",
+        "name": "Chaayos",
         "image": "",
         "category": "",
         "founder": "",
@@ -596,7 +596,7 @@
     }  ,
     {
         "id": "63",
-        "name": "",
+        "name": "Cashfiy",
         "image": "",
         "category": "",
         "founder": "",
@@ -605,7 +605,7 @@
     }  ,
     {
         "id": "64",
-        "name": "",
+        "name": "blusmart mobility",
         "image": "",
         "category": "",
         "founder": "",
@@ -614,7 +614,7 @@
     }  ,
     {
         "id": "65",
-        "name": "",
+        "name": "netmeds",
         "image": "",
         "category": "",
         "founder": "",
@@ -624,7 +624,7 @@
     ,
     {
         "id": "66",
-        "name": "",
+        "name": "Quikr",
         "image": "",
         "category": "",
         "founder": "",
@@ -634,7 +634,7 @@
     ,
     {
         "id": "67",
-        "name": "",
+        "name": "Rivigo",
         "image": "",
         "category": "",
         "founder": "",
@@ -644,7 +644,7 @@
     ,
     {
         "id": "68",
-        "name": "",
+        "name": "magicpin",
         "image": "",
         "category": "",
         "founder": "",
@@ -654,7 +654,7 @@
     ,
     {
         "id": "69",
-        "name": "",
+        "name": "Ola",
         "image": "",
         "category": "",
         "founder": "",
@@ -664,7 +664,7 @@
     ,
     {
         "id": "70",
-        "name": "",
+        "name": "cars23",
         "image": "",
         "category": "",
         "founder": "",
@@ -674,7 +674,7 @@
     ,
     {
         "id": "71",
-        "name": "",
+        "name": "shadowfaz",
         "image": "",
         "category": "",
         "founder": "",
@@ -684,7 +684,7 @@
     ,
     {
         "id": "72",
-        "name": "",
+        "name": "nearbuy",
         "image": "",
         "category": "",
         "founder": "",
@@ -694,7 +694,7 @@
     ,
     {
         "id": "73",
-        "name": "",
+        "name": "dukaan",
         "image": "",
         "category": "",
         "founder": "",
@@ -704,7 +704,7 @@
     ,
     {
         "id": "74",
-        "name": "",
+        "name": "polygon",
         "image": "",
         "category": "",
         "founder": "",
@@ -714,7 +714,7 @@
     ,
     {
         "id": "75",
-        "name": "",
+        "name": "medlife",
         "image": "",
         "category": "",
         "founder": "",
@@ -724,7 +724,7 @@
     ,
     {
         "id": "76",
-        "name": "",
+        "name": "chingari",
         "image": "",
         "category": "",
         "founder": "",
@@ -734,7 +734,7 @@
     ,
     {
         "id": "77",
-        "name": "",
+        "name": "sugar cosmetics",
         "image": "",
         "category": "",
         "founder": "",
@@ -744,7 +744,7 @@
     ,
     {
         "id": "78",
-        "name": "",
+        "name": "classplus",
         "image": "",
         "category": "",
         "founder": "",
@@ -754,7 +754,7 @@
     ,
     {
         "id": "79",
-        "name": "",
+        "name": "urban company",
         "image": "",
         "category": "",
         "founder": "",
@@ -764,7 +764,7 @@
     ,
     {
         "id": "80",
-        "name": "",
+        "name": "rapido",
         "image": "",
         "category": "",
         "founder": "",
@@ -774,7 +774,7 @@
     ,
     {
         "id": "89",
-        "name": "",
+        "name": "yourstory",
         "image": "",
         "category": "",
         "founder": "",
@@ -784,7 +784,7 @@
     ,
     {
         "id": "90",
-        "name": "",
+        "name": "zoomcar",
         "image": "",
         "category": "",
         "founder": "",
@@ -794,7 +794,7 @@
     ,
     {
         "id": "91",
-        "name": "",
+        "name": "urban ladder",
         "image": "",
         "category": "",
         "founder": "",
@@ -804,7 +804,7 @@
     ,
     {
         "id": "92",
-        "name": "",
+        "name": "doubtnut",
         "image": "",
         "category": "",
         "founder": "",
@@ -814,7 +814,7 @@
     ,
     {
         "id": "93",
-        "name": "",
+        "name": "Ok credit",
         "image": "",
         "category": "",
         "founder": "",
@@ -824,7 +824,7 @@
     ,
     {
         "id": "94",
-        "name": "",
+        "name": "winzo",
         "image": "",
         "category": "",
         "founder": "",
@@ -834,7 +834,7 @@
     ,
     {
         "id": "95",
-        "name": "",
+        "name": "gomechanic",
         "image": "",
         "category": "",
         "founder": "",
@@ -844,7 +844,7 @@
     ,
     {
         "id": "96",
-        "name": "",
+        "name": "1mg",
         "image": "",
         "category": "",
         "founder": "",
@@ -864,7 +864,7 @@
     ,
     {
         "id": "98",
-        "name": "",
+        "name": "porter",
         "image": "",
         "category": "",
         "founder": "",
@@ -874,7 +874,7 @@
     ,
     {
         "id": "99",
-        "name": "",
+        "name": "zestmoney",
         "image": "",
         "category": "",
         "founder": "",
@@ -884,7 +884,7 @@
     ,
     {
         "id": "100",
-        "name": "",
+        "name": "sleepycat",
         "image": "",
         "category": "",
         "founder": "",
