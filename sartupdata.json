@@ -524,73 +524,73 @@
         "image": "",
         "category": "Edtech",
         "founder": "Ronnie Screwvala, Mayank Kumar, Phalgun Kompalli, Ravijot Chugh",
-        "founded": "",
-        "headquarter": ""
+        "founded": "2015",
+        "headquarter": "Mumbai"
     }
     ,
     {
         "id": "56",
-        "name": "FirtCry",
+        "name": "FirstCry",
         "image": "",
         "category": "E-commerce",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Supam Maheshwari, Amitava Saha, Prashant Jadhav, Sanket Hattimattur",
+        "founded": "2010",
+        "headquarter": "Pune"
     }  ,
     {
         "id": "57",
         "name": "Unacademy",
         "image": "",
         "category": "Edtech",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Gaurav Munjal, Hemesh Singh, Roman Saini",
+        "founded": "2015",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "58",
-        "name": "Pine Labs",
+        "name": "Embibe",
         "image": "",
-        "category": "Fintech",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Edtech",
+        "founder": "Aditi Avasthi, Nishant Menon",
+        "founded": "2012",
+        "headquarter": "Bengaluru"  
     }
     ,
     {
         "id": "59",
-        "name": "BYJUS",
+        "name": "Byjus",
         "image": "",
         "category": "Edtech",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Byju Raveendran, Divya Gokulnath",
+        "founded": "2011",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "60",
         "name": "Smallcase",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Vasanth Kamath, Anugrah Shrivastava, Rohan Gupta",
+        "founded": "2015",
+        "headquarter": "Bengaluru"
     }  ,
     {
         "id": "61",
         "name": "Cashkaro",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Fintech",
+        "founder": "Rohan Bhargava, Swati Bhargava",
+        "founded": "2013",
+        "headquarter": "Gurugram"
     }  ,
     {
         "id": "62",
         "name": "Chaayos",
         "image": "",
         "category": "",
-        "founder": "",
+        "founder": "",  
         "founded": "",
         "headquarter": ""
     }  ,
