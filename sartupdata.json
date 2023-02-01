@@ -589,56 +589,56 @@
         "id": "62",
         "name": "Chaayos",
         "image": "",
-        "category": "",
-        "founder": "",  
-        "founded": "",
-        "headquarter": ""
+        "category": "Foodtech",
+        "founder": "Raghav Verma,Nitin Saluja",  
+        "founded": "2012",
+        "headquarter": "New Delhi"
     }  ,
     {
         "id": "63",
         "name": "Cashfiy",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Electronics",
+        "founder": "Mandeep Manocha, Nakul Kumar, Amit Sethi",
+        "founded": "2013",
+        "headquarter": "Gurugram"
     }  ,
     {
         "id": "64",
         "name": "blusmart mobility",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "AutoTech",
+        "founder": "Anmol Singh Jaggi,Punit K Goyal, Puneet Singh Jaggi",
+        "founded": "2019",
+        "headquarter": "Gurugram"
     }  ,
     {
         "id": "65",
         "name": "netmeds",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Health",
+        "founder": "Pradeep Dadha",
+        "founded": "2010",
+        "headquarter": "Chennai"
     }
     ,
     {
         "id": "66",
         "name": "Quikr",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "E-commerce",
+        "founder": "Pranay Chulet",
+        "founded": "2008",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "67",
         "name": "Rivigo",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
+        "category": "Logistics",
+        "founder": "Deepak Garg,Gazal Kaira",
+        "founded": "2014",
         "headquarter": ""
     }
     ,
@@ -646,100 +646,100 @@
         "id": "68",
         "name": "magicpin",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "E-commerce",
+        "founder": "Anshoo Sharma, Brij Bhushan",
+        "founded": "2015",
+        "headquarter": "Gurugram"
     }
     ,
     {
         "id": "69",
         "name": "Ola",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "AutoTech",
+        "founder": "Bhavish Aggarwal, Ankit Bhati",
+        "founded": "2010",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "70",
-        "name": "cars23",
+        "name": "cars24",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "AutoTech",
+        "founder": "Mehul Agarwal, Ruchit Agarwal, Vikram Chopra",
+        "founded": "2015",
+        "headquarter": "Gurugram"
     }
     ,
     {
         "id": "71",
-        "name": "shadowfaz",
+        "name": "shadowfax",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Logistics",
+        "founder": "Abhishek Bansal",
+        "founded": "2015",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "72",
-        "name": "nearbuy",
+        "name": "Bira 91",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
+        "category": "Bevarages",
+        "founder": "Ankur Jain",
+        "founded": "2015",
         "headquarter": ""
     }
     ,
     {
         "id": "73",
-        "name": "dukaan",
+        "name": "Dukaan",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "SaaS,E-commerce",
+        "founder": "Suumit Shah, Kaustub Pandey",
+        "founded": "2019",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "74",
-        "name": "polygon",
+        "name": "Polygon",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Blockchain",
+        "founder": "Jayanti Kanani, Sandeep Nainwal, Anurag Arjun, Mihailo Bjelic",
+        "founded": "2017",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "75",
         "name": "medlife",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Health",
+        "founder": "Ananth Narayanan, Tushar Kumar, Prashant Singh",
+        "founded": "2014",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "76",
         "name": "chingari",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Social-Media",
+        "founder": "Aditya Kothari, Biswatma Nayak, Sumit Ghosh, Deepak Salvi",
+        "founded": "2018",
+        "headquarter": "Bengaluru"
     }
     ,
     {
         "id": "77",
         "name": "sugar cosmetics",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Beauty",
+        "founder": "Vineeta Singh, Kaushik Mukherjee",
+        "founded": "2012",
+        "headquarter": "Mumbai"
     }
     ,
     {
