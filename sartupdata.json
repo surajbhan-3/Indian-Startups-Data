@@ -746,30 +746,30 @@
         "id": "78",
         "name": "classplus",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Edtech",
+        "founder": "Bhaswat Agarwal, Bikash Dash, Nikhil Goel,Mukul Rustagi, Vastal Rustagi,",
+        "founded": "2018",
+        "headquarter": "Noida"
     }
     ,
     {
         "id": "79",
         "name": "urban company",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "Service",
+        "founder": "Abhiraj Singh Bhal, Varun Khaitan, Raghav Chandra",
+        "founded": "2014",
+        "headquarter": "New Delhi"
     }
     ,
     {
         "id": "80",
         "name": "rapido",
         "image": "",
-        "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "category": "AutoTech",
+        "founder": "Aravind Sanka, Pavan Guntupalli, SR Rishikesh",
+        "founded": "2015",
+        "headquarter": "Bengaluru"
     }
     ,
     {
@@ -777,9 +777,9 @@
         "name": "yourstory",
         "image": "",
         "category": "",
-        "founder": "",
-        "founded": "",
-        "headquarter": ""
+        "founder": "Shardha Sharma",
+        "founded": "2008",
+        "headquarter": "Bengaluru"
     }
     ,
     {
